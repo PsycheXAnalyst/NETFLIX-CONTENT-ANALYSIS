@@ -68,6 +68,10 @@ The data had so many inconsistencies and blank cells. The following steps were t
 - Mins and seasons were separated from duration just to have only the figures.
 - The weekday() in Power BI was used to determine if a movie or Tv show was released on a weekday or weekend.
 
+![](Power_Query.jpg)
+
+    Power Query View on Power BI
+
 ## DATA ANALYSIS AND VISUALIZATION
 
 In this step, I carried out an exploratory analysis of the data to answer the questions that were stated earlier.
