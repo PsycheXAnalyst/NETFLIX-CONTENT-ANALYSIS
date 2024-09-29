@@ -180,7 +180,7 @@ TV-MA leads for both Movies and Tv shows, giving an indication that this content
 
 In conclusion, my analysis of the Netflix data has provided me with valuable insights that can help the company improve its show coverage and customer satisfaction. By following data-driven recommendations, Netflix can differentiate itself from competitors and provide its customers with the best content based on the customers’ preferences.
 
-You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNGQ5NDJlYzktNzA5YS00MjE4LTg5ZDYtMzU5NjU4MGQxOGUxIiwidCI6Ijk2NDA1NDAwLWI5ZWEtNGQ2My05MDcyLTk4Zjk2OTJmM2VmOCJ9)
+You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmJkNWVlNTYtMzk2YS00NWM0LWJjM2YtN2RkNTgxNGZjOTBjIiwidCI6ImE0Yjg5OWU1LTAyODgtNDAxOS04ODRhLTkzYmFmZjhkY2I2MyJ9)
 
 It was a great experience working on this project. I hope you learned as you explore the documentation and interact with the dashboard. Let me know what you think!
 
